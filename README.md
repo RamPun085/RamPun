@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Professional Summary
 
-Customer-focused **IT Support Officer** with 3+ years of experience in **Level 1/2 support** roles across healthcare and research industries. Adept with **Microsoft 365**, **Windows Active Directory**, **Intune**, **remote support tools**, and **ITIL-aligned ITSM** practices.
+Customer-focused **IT Support Officer** with 3+ years of experience in **Level 1/2 support** roles across clinical and research environment. Adept with **Microsoft 365**, **Windows Active Directory**, **Intune**, **remote support tools**, and **ITIL-aligned ITSM** practices.
 
 Always driven by curiosity, problem-solving, and delivering tech solutions that make users' lives easier. Currently running a **home lab** to simulate real-world IT service desk and network environments.
 
